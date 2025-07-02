@@ -48,7 +48,7 @@ def SCML(A, m, B, n):
     
     print("Tempo final do algoritmo (aproximadamente): {:.6f}".format(tempo_total))
     
-    imprimirMatriz(M,m,n)
+    #imprimirMatriz(M,m,n)
     print(Sol)
     print(f"tamanho: {M[m][n]}")
     
